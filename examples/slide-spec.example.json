@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "示範簡報",
+    "source": "https://www.youtube.com/watch?v=VIDEO_ID",
+    "mode": "professional-remake",
+    "theme": {
+      "background": "#18181A",
+      "foreground": "#F2F0EB",
+      "accent": "#F49A19",
+      "muted": "#A5A5AA",
+      "font": "Microsoft JhengHei"
+    }
+  },
+  "slides": [
+    {
+      "section": "00 / 封面",
+      "title": "簡報標題",
+      "subtitle": "以一句話說明觀眾會學到什麼",
+      "layout": "cover",
+      "elements": [],
+      "source_time": 0
+    },
+    {
+      "section": "01 / 核心概念",
+      "title": "一張投影片只保留一個完整觀念",
+      "subtitle": "合併逐步動畫, 並使用可編輯物件重建",
+      "layout": "cards",
+      "elements": [
+        {"type": "card", "heading": "觀念 A", "body": "簡短說明與必要限定條件.", "accent": "#F49A19"},
+        {"type": "card", "heading": "觀念 B", "body": "保留專有名詞, 數字與重要比較.", "accent": "#45C486"}
+      ],
+      "source_time": 42.0
+    },
+    {
+      "section": "02 / 來源",
+      "title": "來源與重建說明",
+      "subtitle": "本檔案不是創作者的原始投影片",
+      "layout": "bullets",
+      "elements": [
+        {"type": "bullet", "text": "來源: 請填入影片標題與作者"},
+        {"type": "bullet", "text": "影片: https://www.youtube.com/watch?v=VIDEO_ID"},
+        {"type": "bullet", "text": "列出可編輯元素, 截圖元素與已知限制"}
+      ],
+      "source_time": 60.0
+    }
+  ]
+}

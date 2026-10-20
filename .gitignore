@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+work/
+output/
+*.mp4
+*.mkv
+*.webm
+*.vtt
+*.srt
+*.pptx
+*.pdf
+contact_*.jpg
+frame_*.jpg
